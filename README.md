@@ -2,7 +2,7 @@
 
 A modern, type-safe blogging platform built with Next.js 15, tRPC, Drizzle ORM, and PostgreSQL. This project demonstrates full-stack development best practices with end-to-end type safety.
 
-🔗 **Live Demo**: [Coming Soon - Deploy to Vercel]
+🔗 **Live Demo**: https://multi-user-blogging-platform-orpin.vercel.app/
 
 ## 🚀 Tech Stack
 
